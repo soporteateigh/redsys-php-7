@@ -1,0 +1,19 @@
+{
+    "name": "ateigh/redsys-php-7",
+    "description": "Redsys package for PHP",
+    "authors": [
+        {
+            "name": "ateigh",
+            "email": "soporte@ateigh.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "ateigh\\RedSys\\": "src/"
+        }
+    }
+}
